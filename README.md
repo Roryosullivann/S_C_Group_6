@@ -1,6 +1,6 @@
 # S_C_Group_6
 
-# Motor Insurance Generalized Linear Models (GLMs)
+# Modelling Motor Insurance Claims Data.
 
 This repository contains R code for building, cleaning, and modeling motor insurance claim frequency and severity data using Generalized Linear Models (GLMs). The code includes data preparation, feature engineering, and model testing for Poisson and Negative Binomial GLMs.
 
