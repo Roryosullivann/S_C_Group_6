@@ -2,7 +2,7 @@
 
 # Modelling Motor Insurance Claims Data.
 
-This repository contains R code for building, cleaning, and modeling motor insurance claim frequency and severity data using Generalized Linear Models (GLMs). The code includes data preparation, feature engineering, and model testing for Poisson and Negative Binomial GLMs.
+This repository contains R code for building, cleaning, and modeling motor insurance claim frequency and severity data using Generalized Linear Models (GLMs). The code includes data preparation, feature engineering, and model testing for Poisson and Gamma GLMs.
 
 ---
 
