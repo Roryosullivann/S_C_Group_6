@@ -9,8 +9,8 @@ This repository contains R code for building, cleaning, and modeling motor insur
 ## 📁 Project Structure
 
 The repository consists of the following files:
-- `DataCleaning_v8`: Script for cleaning and preparing motor insurance claims data.
-- `FREQUENCY MODEL CHOICE.R`: Script for building and testing GLMs, including Poisson for claim frequency.
+- `Data_Cleaning.R`: Script for cleaning and preparing motor insurance claims data.
+- `Frequency_Model.R`: Script for building and testing GLMs, including Poisson for claim frequency.
 
 ---
 
